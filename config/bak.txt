@@ -133,6 +133,7 @@ beifen.bak
 beifen.z
 server.rar
 server.zip
+1.zip
 server.7z
 server.tar.gz
 server.sql
